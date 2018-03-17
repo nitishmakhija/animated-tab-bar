@@ -40,7 +40,9 @@ Just add the RAMAnimatedTabBarController folder to your project.
 
 or use [CocoaPods](https://cocoapods.org) with Podfile:
 ``` ruby
-pod 'RAMAnimatedTabBarController'
+pod 'RAMAnimatedTabBarController', :git => 'https://github.com/nitishmakhija/animated-tab-bar.git', :commit => '45da97d5f206cba1bde94f54126bf3a08e6c4629'
+
+
 ```
 
 or [Carthage](https://github.com/Carthage/Carthage) users can simply add to their `Cartfile`:
