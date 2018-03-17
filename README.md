@@ -40,8 +40,7 @@ Just add the RAMAnimatedTabBarController folder to your project.
 
 or use [CocoaPods](https://cocoapods.org) with Podfile:
 ``` ruby
-pod 'RAMAnimatedTabBarController', :git => 'https://github.com/nitishmakhija/animated-tab-bar.git', :commit => '45da97d5f206cba1bde94f54126bf3a08e6c4629'
-
+pod 'RAMAnimatedTabBarController', :git => 'https://github.com/nitishmakhija/animated-tab-bar.git', :commit => '6933f69852f15465635a9c6ba827d78f6826dd34'
 
 ```
 
